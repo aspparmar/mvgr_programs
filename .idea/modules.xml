@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bitwise_operator/Bitwise_operator.iml" filepath="$PROJECT_DIR$/Bitwise_operator/Bitwise_operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_arrayList/Collections_arrayList.iml" filepath="$PROJECT_DIR$/Collections_arrayList/Collections_arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NGE/NGE.iml" filepath="$PROJECT_DIR$/NGE/NGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acess_modifiers/acess_modifiers.iml" filepath="$PROJECT_DIR$/acess_modifiers/acess_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assesment/assesment.iml" filepath="$PROJECT_DIR$/assesment/assesment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assesment_solution/assesment_solution.iml" filepath="$PROJECT_DIR$/assesment_solution/assesment_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backspace_stringcompare/backspace_stringcompare.iml" filepath="$PROJECT_DIR$/backspace_stringcompare/backspace_stringcompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary_search/binary_search.iml" filepath="$PROJECT_DIR$/binary_search/binary_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular tour/circular tour.iml" filepath="$PROJECT_DIR$/circular tour/circular tour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doubly_ll/doubly_ll.iml" filepath="$PROJECT_DIR$/doubly_ll/doubly_ll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flames_game/flames_game.iml" filepath="$PROJECT_DIR$/flames_game/flames_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happy_number/happy_number.iml" filepath="$PROJECT_DIR$/happy_number/happy_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happynumber/happynumber.iml" filepath="$PROJECT_DIR$/happynumber/happynumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heart_pattern/heart_pattern.iml" filepath="$PROJECT_DIR$/heart_pattern/heart_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jump_search/jump_search.iml" filepath="$PROJECT_DIR$/jump_search/jump_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked_list/linked_list.iml" filepath="$PROJECT_DIR$/linked_list/linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max_sum_contigous/max_sum_contigous.iml" filepath="$PROJECT_DIR$/max_sum_contigous/max_sum_contigous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method_overloading/method_overloading.iml" filepath="$PROJECT_DIR$/method_overloading/method_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods_recursive/methods_recursive.iml" filepath="$PROJECT_DIR$/methods_recursive/methods_recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moving/moving.iml" filepath="$PROJECT_DIR$/moving/moving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvgr_programs.iml" filepath="$PROJECT_DIR$/mvgr_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrome_2/palindrome_2.iml" filepath="$PROJECT_DIR$/palindrome_2/palindrome_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromic_subarray/palindromic_subarray.iml" filepath="$PROJECT_DIR$/palindromic_subarray/palindromic_subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern_2/pattern_2.iml" filepath="$PROJECT_DIR$/pattern_2/pattern_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_program/patterns_program.iml" filepath="$PROJECT_DIR$/patterns_program/patterns_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_programs/string_programs.iml" filepath="$PROJECT_DIR$/string_programs/string_programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings_1/strings_1.iml" filepath="$PROJECT_DIR$/strings_1/strings_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strong_number/strong_number.iml" filepath="$PROJECT_DIR$/strong_number/strong_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validPalindrome/validPalindrome.iml" filepath="$PROJECT_DIR$/validPalindrome/validPalindrome.iml" />
+    </modules>
+  </component>
+</project>

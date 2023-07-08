@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3f613e8-6009-4cf7-8ead-ca00a6bd9a7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bitwise_operator/Bitwise_operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_arrayList/Collections_arrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acess_modifiers/acess_modifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assesment/assesment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assesment_solution/assesment_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backspace_stringcompare/backspace_stringcompare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search/binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doubly_ll/doubly_ll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flames_game/flames_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/happy_number/happy_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/happynumber/happynumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heart_pattern/heart_pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jump_search/jump_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/linked_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_sum_contigous/max_sum_contigous.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/method_overloading/method_overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/methods_recursive/methods_recursive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moving/moving.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvgr_programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome_2/palindrome_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromic_subarray/palindromic_subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern_2/pattern_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns_program/patterns_program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/searching/searching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_programs/string_programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings_1/strings_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strong_number/strong_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validPalindrome/validPalindrome.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Rp9wnoJkL6LiDO6753Zf27oli5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3f613e8-6009-4cf7-8ead-ca00a6bd9a7e" name="Changes" comment="" />
+      <created>1687936399882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687936399882</updated>
+    </task>
+    <servers />
+  </component>
+</project>
